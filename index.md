@@ -1,4 +1,8 @@
+# Cece Novi's First CS193 Homework
 ## Welcome to GitHub Pages
+
+- I like that CS193 is very chill
+- I like the instructors of CS193 who seem very helpful and welcoming
 
 I am just testing this out!
 
